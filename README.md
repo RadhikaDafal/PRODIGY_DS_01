@@ -29,3 +29,15 @@ World Bank Country-wise Population Dataset
 
 ## 📈 Output
 The final visualization clearly represents the population distribution among top countries, demonstrating practical skills in data loading, filtering, sorting, and graphical representation.
+
+📂 Project Structure
+
+├── task01_population.ipynb   # Jupyter notebook with full analysis
+├── population_chart.png      # Saved visualization output
+└── README.md                 # Project documentation
+
+👩‍💻 Author
+
+Radhika Dafal
+Data Science Intern – Prodigy InfoTech
+
