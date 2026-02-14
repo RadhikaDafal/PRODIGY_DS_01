@@ -33,7 +33,6 @@ The final visualization clearly represents the population distribution among top
 ```
 ## 📁 Project Structure
 
-```
 PRODIGY_DS_01/
 │
 ├── task01_population.ipynb   # Jupyter Notebook with full analysis
